@@ -55,14 +55,10 @@ flutter run
 ```
 ## 📱 Capturas / Funcionamiento
 La aplicación iniciará centrada en las coordenadas predefinidas, mostrando un marcador con la etiqueta "Persona Dependiente". Al pulsar sobre el marcador, se despliega una ventana de información con el estado.
-
-Desarrollado como parte del módulo de Programación Multimedia y Dispositivos Móviles - Unidad 6.
+<img width="258" height="550" alt="image" src="https://github.com/user-attachments/assets/752a85e6-5e23-4494-9206-ed2335ed5a22" />
 
 
 ***
 
-### Último paso antes de subir (Checklist)
-1.  Asegúrate de que en tu archivo `.gitignore` (dentro de la carpeta `android/`) está escrita la línea `local.properties`.
-2.  Haz el commit y el push.
-
-¡Y listo! Tienes un proyecto funcionando, bien documentado y con buenas prácticas
+### Autor
+- Santiago Lafuente Hernández.
