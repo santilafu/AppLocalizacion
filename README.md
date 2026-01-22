@@ -1,7 +1,8 @@
 # 📍 App de Localización y Monitorización (Flutter)
 
 Este proyecto consiste en un prototipo funcional de una aplicación móvil desarrollada en **Flutter** para la localización de personas dependientes. Integra los servicios de **Google Maps** para visualizar ubicaciones en tiempo real, marcadores personalizados y control de cámara.
-⚠️ Compatibilidad: Este proyecto ha sido configurado y probado únicamente en Android. Aunque la estructura de directorios incluye otras plataformas (Web, Windows, etc.), la API Key de Google Maps no se ha configurado para ellas.
+
+## ⚠️ Compatibilidad: Este proyecto ha sido configurado y probado únicamente en Android. Aunque la estructura de directorios incluye otras plataformas (Web, Windows, etc.), la API Key de Google Maps no se ha configurado para ellas.
 
 ## 📋 Características
 * **Visualización de Mapas:** Integración nativa con Google Maps SDK.
